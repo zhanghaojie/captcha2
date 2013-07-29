@@ -1,4 +1,4 @@
 captcha2
 ========
 
-captcha version 2
+Base on captcha
