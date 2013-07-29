@@ -1,4 +1,4 @@
 captcha2
 ========
 
-Base on captcha
+Base on [captcha](https://github.com/napa3um/node-captcha)
